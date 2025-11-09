@@ -1,2 +1,2 @@
 # The Sufficiency Protocol
-A Finite Money for a Finite World.
+A 2.0 planetary monetary system compatible with a finite planet.
