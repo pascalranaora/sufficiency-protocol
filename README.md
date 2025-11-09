@@ -1,2 +1,2 @@
 # The Sufficiency Protocol
-The end of infinity
+A Finite Money for a Finite World.
