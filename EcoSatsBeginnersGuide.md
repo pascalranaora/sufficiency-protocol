@@ -135,7 +135,7 @@ No solar? → Skip! Start with **hours** (`⚒`) only.
 | **Cashu** | The “EcoSats printer” | Yes (free) |
 | **Solar meter** | Counts extra sun | Only if you have solar |
 
-→ Full guide with copy-paste commands (just some high level principles for now): [ecosats-starter-kit](https://github.com/ecosats/beginner](https://github.com/pascalranaora/sufficiency-protocol/tree/main/ecosats-starter)
+→ Full guide with copy-paste commands (just some high level principles for now): [ecosats-starter-kit](https://github.com/pascalranaora/sufficiency-protocol/tree/main/ecosats-starter)
 
 ---
 
