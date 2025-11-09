@@ -1,1 +1,2 @@
-# sufficiency-protocol-
+# The Sufficiency Protocol
+The end of infinity
