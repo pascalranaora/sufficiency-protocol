@@ -86,15 +86,15 @@ Deploy miners **only where energy would be lost**:
 
 Let:  
 - $$\( E_t \)$$ = available low-entropy stock at time $$\( t \)$$  
-- $$\( M_t \) = money supply at time \( t \)  
-- $$\( \Delta S \) = entropy increase per economic process  
+- $$\( M_t \)$$ = money supply at time $$\( t \)$$  
+- $$\( \Delta S \)$$ = entropy increase per economic process  
 
-**Fiat**: \( M_t = M_0 e^{rt} \) → **unbounded claims** on \( E_t \)  
-**Bitcoin**: \( M_t = \sum_{h=0}^{n} 50 \cdot 10^8 \cdot \frac{1}{2^{\lfloor h/210000 \rfloor}} \) → **bounded**  
+**Fiat**: $$\( M_t = M_0 e^{rt} \)$$ → **unbounded claims** on $$\( E_t \)$$  
+**Bitcoin**: $$\( M_t = \sum_{h=0}^{n} 50 \cdot 10^8 \cdot \frac{1}{2^{\lfloor h/210000 \rfloor}} \)$$ → **bounded**  
 
 **Sufficiency Protocol**:  
-\[ M_t^{\text{local}} = \min(M_t^{\text{BTC cap}}, k \cdot L_t) \]  
-where \( L_t \) = local low-entropy services (hours, kWh, kg compost)  
+$$\[ M_t^{\text{local}} = \min(M_t^{\text{BTC cap}}, k \cdot L_t) \]$$  
+where $$\( L_t \)$$ = local low-entropy services (hours, kWh, kg compost)  
 
 → **Money supply cannot exceed local thermodynamic capacity**.
 
