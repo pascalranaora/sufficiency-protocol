@@ -1,0 +1,110 @@
+# This is the "pro" version of setup-ecosats.sh. Use either — this one if you like YAML.
+
+# docker-compose.yml — EcoSats Full Stack (Bitcoin + Lightning + Cashu Mint)
+# Run: docker-compose up -d
+# Stop: docker-compose down
+# Logs: docker-compose logs -f
+
+version: '3.8'
+
+services:
+  # Bitcoin Core (pruned mainnet node)
+  bitcoin:
+    image: ruimarinho/bitcoin-core:27.0  # Latest stable
+    container_name: ecosats-bitcoin
+    restart: unless-stopped
+    volumes:
+      - ./data/bitcoin:/data  # Persist blockchain
+    environment:
+      - BITCOIND_OPTS=-prune=550 -server -rpcallowip=0.0.0.0/0 -rpcbind=0.0.0.0 -rpcuser=ecosats - rpcpassword=sufficiency2025
+    ports:
+      - "8332:8332"  # P2P
+      - "8333:8333"  # RPC
+      - "28332:28332"  # ZMQ block
+      - "28333:28333"  # ZMQ tx
+    command: >
+      bitcoind
+      -prune=550
+      -server
+      -rpcallowip=0.0.0.0/0
+      -rpcbind=0.0.0.0
+      -rpcuser=ecosats
+      -rpcpassword=sufficiency2025
+      -zmqpubrawblock=tcp://0.0.0.0:28332
+      -zmqpubrawtx=tcp://0.0.0.0:28333
+      -fallbackfee=0.0002
+
+  # Lightning Network Daemon (LND)
+  lnd:
+    image: lightninglabs/lnd:v0.18.3-beta  # Latest stable
+    container_name: ecosats-lnd
+    restart: unless-stopped
+    depends_on:
+      - bitcoin
+    volumes:
+      - ./data/lnd:/root/.lnd  # Persist wallet
+    ports:
+      - "9735:9735"  # P2P
+      - "10009:10009"  # gRPC
+    environment:
+      - LND_CONF=/lnd.conf
+    command: >
+      lnd
+      --bitcoin.active
+      --bitcoin.mainnet
+      --bitcoin.node=bitcoind
+      --bitcoind.rpchost=bitcoin:8333
+      --bitcoind.rpcuser=ecosats
+      --bitcoind.rpcpass=sufficiency2025
+      --bitcoind.zmqpubrawblock=tcp://bitcoin:28332
+      --bitcoind.zmqpubrawtx=tcp://bitcoin:28333
+      --listen=0.0.0.0:9735
+      --rpclisten=0.0.0.0:10009
+      --restlisten=0.0.0.0:8080
+      --noseedbackup  # For testing; remove in prod
+      --accept-nonstd-txns=true
+    # Wait for Bitcoin to sync (simple healthcheck)
+    healthcheck:
+      test: ["CMD", "lncli", "getinfo"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  # Cashu Mint (Meow — EcoSats "printer")
+  cashu:
+    image: cashubtc/meow:latest  # Official Cashu Meow
+    container_name: ecosats-cashu
+    restart: unless-stopped
+    depends_on:
+      lnd:
+        condition: service_healthy
+    volumes:
+      - ./data/cashu:/data  # Persist mint DB
+    ports:
+      - "3338:3338"  # Mint API
+    environment:
+      - CASHU_MINT_NAME=EcoSats
+      - CASHU_WALLET_SEED=your-24-word-seed-here  # ← CHANGE THIS!
+      - CASHU_LIGHTNING_BACKEND=lnd
+      - LND_RPC_SERVER=localhost:10009
+      - LND_MACAROON_PATH=/root/.lnd/data/chain/bitcoin/mainnet/admin.macaroon
+      - LND_TLS_CERT_PATH=/root/.lnd/tls.cert
+    command: >
+      cashu
+      mint
+      --host 0.0.0.0
+      --port 3338
+      --db ecosats.db
+      --lightning-backend lnd
+      --lnd-rpc-server lnd:10009
+      --lnd-macaroon /root/.lnd/data/chain/bitcoin/mainnet/admin.macaroon
+      --lnd-tls-cert /root/.lnd/tls.cert
+
+volumes:
+  bitcoin:
+  lnd:
+  cashu:
+
+networks:
+  default:
+    driver: bridge
