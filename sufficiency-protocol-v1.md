@@ -66,7 +66,8 @@ This is **not growth**. It is **controlled depletion** of a **digital low-entrop
 Deploy miners **only where energy would be lost**:  
 - Flare gas (methane → BTC + CO₂e reduction)  
 - Curtailed renewables (wind/solar spill)  
-- Hydro spillways  
+- Hydro spillways
+- Nuclear surplus or excess energy
 
 **Thermodynamic rule**:  
 > *“Use energy that would increase entropy anyway.”*  
