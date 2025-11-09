@@ -190,8 +190,8 @@ Your village now has:
 **EcoSats = Bitcoin for the real world.**  
 **Start small. Grow local. Stay sufficient.**
 
-*Download everything:* [ecosats.org/beginner](https://ecosats.org/beginner)  
-*Join chat:* `#ecosats-beginners:matrix.org`  
+*Download everything:* (coming soon) [ecosats.org/beginner](https://ecosats.org/beginner)  
+*Join chat:* (coming soon) `#ecosats-beginners:matrix.org`  
 
 ---
 
