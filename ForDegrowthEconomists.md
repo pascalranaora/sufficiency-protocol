@@ -154,9 +154,9 @@ T_t &\leq L_t \quad \text{(throughput cap)}
 
 ## 10. **Call to Economists**
 
-> In this repo, we have extended Satoshi Nakamoto original ideas to make them Degrowth compatible. A global monetary system that could apply locally without the need on relying on central authorities to store the value. 
+In this repository, we are attempting to extend Satoshi Nakamoto original ideas to make them Degrowth compatible. A global monetary system that could apply to local communities without the need on relying on trust of central authorities (fully transparent and automated system). 
 
-Money is a technology that allows the transfer of value across space, time, and scale.
+According to economists, Money should be a technology that allows the transfer of value across space, time, and scale.
 Value is the utility that humans ascribe to goods and services. It is highly subjective and varies across time and space.
 
 Unwittingly, economists have defined the functions of money as follows:
@@ -173,15 +173,15 @@ Gold excels in time and scale, but not in space. Fiat currency excels in space a
 
 They optimize local space, but sacrifice scale and time.
 
-**Bitcoin is the first form of currency that excels simultaneously in all three functions.**
-With ou research here we see that Bitcoin could be the pivotal technology that allows humanity to use Thermodynamic laws (which are the same everywhere around Earth) and to peg it back to a Global monetary system that would have other benefits for global coordination.
+**Bitcoin is the first form of currency we have invented that excels simultaneously in all three functions.**
+With the research here, we believe Bitcoin could be a pivotal technology that allows humanity to finally use/comply with thermodynamic laws (which are the same everywhere around Earth) at scale and to peg it back to a global monetary system that would have other benefits for global coordination (common unit of measure of value everywhere on Earth).
 
 
 
-> **We there invite Degrowth Economists and the Degrowth Journal to:**  
+> **We therefore invite Degrowth Economists and the Degrowth Journal to:**  
 > 1. **Peer-review** the thermodynamic model  
-> 2. **Co-design** the pilot study ?
-> 3. **Publish** in *Ecological Economics* or *Degrowth Journal*
+> 2. **Co-design** some pilot studies ?
+> 3. **Publish** this work in *Ecological Economics* or *Degrowth Journal*
 
 ---
 
