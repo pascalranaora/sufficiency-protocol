@@ -6,9 +6,9 @@
 
 ## Imagine This…
 
-You grow tomatoes.  
-Your neighbor fixes bikes.  
-Another friend has extra solar power at noon.
+You grow tomatoes 🍅.  
+Your neighbor fixes bikes 🚲.  
+Another friend has extra solar power ☀️ at noon.
 
 **EcoSats** lets you **trade without euros or dollars** — using **Bitcoin + real things** you already do.
 
@@ -26,8 +26,8 @@ Another friend has extra solar power at noon.
 
 | Person | Does | Gets | Spends |
 |--------|------|------|--------|
-| **Ana** | Has extra solar power (nobody uses it) | **100 EcoSats** (`☀`) | Pays Luis |
-| **Luis** | Fixes Ana’s bike (1 hour) | **50 EcoSats** (`⚒`) | Buys bread |
+| **Ana** | Has extra solar power (nobody uses it) | **100 EcoSats** (`☀️`) | Pays Luis |
+| **Luis** | Fixes Ana’s bike (1 hour) | **50 EcoSats** (`⚒️`) | Buys bread |
 | **Maria** | Bakes bread with compost | **50 EcoSats** (`🌱`) | Happy! |
 
 → No bank. No fees. No inflation.
@@ -51,8 +51,8 @@ Another friend has extra solar power at noon.
 1. **Gather 10 friends** at the café.  
 2. **Pick 5 leaders** (they rotate every 6 months).  
 3. **Make a list** of helpful things:  
-   - ☀ = 1 kWh extra solar/wind  
-   - ⚒ = 1 hour fixing, teaching, caring  
+   - ☀️ = 1 kWh extra solar/wind  
+   - ⚒️ = 1 hour fixing, teaching, caring  
    - 🌱 = 1 kg compost or food grown  
 
 Print it on **one A4 sheet** and stick it on the wall.
@@ -110,8 +110,8 @@ No solar? → Skip! Start with **hours** (`⚒`) only.
 ┌──────────────────────────────────────────┐
 │           WELCOME TO ECO SATS!           │
 │                                          │
-│  ☀ 1 EcoSat = 1 kWh extra sun power      │
-│  ⚒ 1 EcoSat = 1 hour help or repair      │
+│  ☀️ 1 EcoSat = 1 kWh extra sun power      │
+│  ⚒️ 1 EcoSat = 1 hour help or repair      │
 │  🌱 1 EcoSat = 1 kg compost or food      │
 │                                          │
 │  → Earn by helping                       │
