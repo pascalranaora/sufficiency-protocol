@@ -136,7 +136,7 @@ $$\
 
 ---
 
-## 9. **One-Page Executive Summary (For Parrique’s Desk)**
+## 9. **One-Page Executive Summary**
 
 ```latex
 \begin{align*}
