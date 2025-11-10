@@ -154,7 +154,7 @@ T_t &\leq L_t \quad \text{(throughput cap)}
 
 ## 10. **Call to Economists**
 
-In this repository, we are attempting to extend Satoshi Nakamoto original ideas to make them Degrowth compatible. A global monetary system that could apply to local communities without the need on relying on trust of central authorities (fully transparent and automated system). 
+In this repository, we are attempting to extend Satoshi Nakamoto original ideas to make them Degrowth compatible. A global monetary system that could apply to local communities without the need on relying on trust of central authorities (a transparent and automated system). 
 
 According to economists, Money should be a technology that allows the transfer of value across space, time, and scale.
 Value is the utility that humans ascribe to goods and services. It is highly subjective and varies across time and space.
@@ -170,7 +170,6 @@ Throughout history, no monetary system has managed to simultaneously fulfill all
 This trade-off can be described as a monetary trilemma: two functions can be optimized, but not all three.
 
 Gold excels in time and scale, but not in space. Fiat currency excels in space and scale, but not in time. Local currencies are not complete currencies.
-
 They optimize local space, but sacrifice scale and time.
 
 **Bitcoin is the first form of currency we have invented that excels simultaneously in all three functions.**
@@ -181,7 +180,7 @@ With the research here, we believe Bitcoin could be a pivotal technology that al
 > **We therefore invite Degrowth Economists and the Degrowth Journal to:**  
 > 1. **Peer-review** the thermodynamic model  
 > 2. **Co-design** some pilot studies ?
-> 3. **Publish** this work in *Ecological Economics* or *Degrowth Journal*
+> 3. **Publish** original new work in *Ecological Economics* or *Degrowth Journal*
 
 ---
 
