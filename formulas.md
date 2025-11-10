@@ -21,12 +21,12 @@
 
 ---
 
-## 2. **Thermodynamic Capacity \( L_t \)**  
+## 2. **Thermodynamic Capacity $$\( L_t \)$$**  
 **Local low-entropy stock** (Georgescu-Roegen)
 
-\[
+$$\[
 L_t = E_t + H_t + C_t
-\]
+\]$$
 
 | Term | Meaning | Unit | Example |
 |------|-------|------|--------|
