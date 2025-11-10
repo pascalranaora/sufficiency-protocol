@@ -205,7 +205,7 @@ With our research here we believe Bitcoin could be a pivotal technology that all
 ---
 
 **Contact**: `@sufficiencyprotocol.org`  
-**Pilot**: Exploring options
+**Pilot**: Exploring options   
 **Code**: [sufficiency-protocol](https://github.com/pascalranaora/sufficiency-protocol)  
 
 ---
