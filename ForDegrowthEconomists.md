@@ -154,33 +154,36 @@ T_t &\leq L_t \quad \text{(throughput cap)}
 
 ## 10. **Call to Economists**
 
-In this repository, we are attempting to extend Satoshi Nakamoto original ideas to make them Degrowth compatible. A global monetary system that could apply to local communities without the need on relying on trust of central authorities (a transparent and automated system). 
+In this repository, we are attempting to extend Satoshi Nakamoto original ideas to make them Degrowth compatible. A global monetary system that could apply to local communities without the need on relying on trust of central authorities (a transparent and automated system).  
 
-According to economists, Money should be a technology that allows the transfer of value across space, time, and scale.
-Value is the utility that humans ascribe to goods and services. It is highly subjective and varies across time and space.
+According to Economists, Money is a technology to move Value across Space, Time, and Scale.
 
-Unwittingly, economists have defined the functions of money as follows:
+Value is the utility humans derive from Goods & Services.
+Value is highly subjective, and it changes across Time and Space.
+Unbeknownst to them, Economists have defined these functions as:
 
-- Store of value (Time)
-- Medium of exchange (Space)
-- Unit of account (Scale)
+- Store of Value (Time)
+- Medium of Exchange (Space)
+- Unit of Account (Scale)
 
-Throughout history, no monetary system has managed to simultaneously fulfill all three functions of money. This is the origin of the idea of ​​guaranteeing money and the need to distinguish between currency and foreign exchange.
+Throughout History, no monetary system has managed to satisfy all 3 functions of Money at once. This is where the idea of Backing Money and the necessity of separating Money and Currency come from.
 
-This trade-off can be described as a monetary trilemma: two functions can be optimized, but not all three.
+This trade-off can be described as a Money Trilemma: you can optimize for 2, but not all 3.
 
-Gold excels in time and scale, but not in space. Fiat currency excels in space and scale, but not in time. Local currencies are not complete currencies.
-They optimize local space, but sacrifice scale and time.
+Gold is great at Time & Scale, but not Space.
+Fiat is great at Space & Scale, but not Time.
+Local currencies are not complete currencies. They optimize local space, but sacrifice scale and time.
 
-**Bitcoin is the first form of currency we have invented that excels simultaneously in all three functions.**
-With the research here, we believe Bitcoin could be a pivotal technology that allows humanity to finally use/comply with thermodynamic laws (which are the same everywhere around Earth) at scale and to peg it back to a global monetary system that would have other benefits for global coordination (common unit of measure of value everywhere on Earth).
+Until the invention of Bitcoin.
 
+**Bitcoin is the first form of Money that excels simultaneously in all three functions.**
+With our research here we believe Bitcoin could be a pivotal technology that allows humanity to finally use/comply with thermodynamic laws (which are the same everywhere on Earth) locally, at scale and to peg it back to a global monetary system that would have other benefits for global coordination (common unit of measure of value everywhere on Earth) solving the Space Trilemma.
 
 
 > **We therefore invite Degrowth Economists and the Degrowth Journal to:**  
 > 1. **Peer-review** the thermodynamic model  
 > 2. **Co-design** some pilot studies ?
-> 3. **Publish** original new work in *Ecological Economics* or *Degrowth Journal*
+> 3. **Publish** or consider Bitcoin in some original new work in *Ecological Economics* or *Degrowth Journal*
 
 ---
 
