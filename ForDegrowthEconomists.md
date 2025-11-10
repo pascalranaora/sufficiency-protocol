@@ -170,14 +170,14 @@ Throughout History, no monetary system has managed to satisfy all 3 functions of
 
 This trade-off can be described as a Money Trilemma: you can optimize for 2, but not all 3.
 
-Gold is great at Time & Scale, but not Space.
-Fiat is great at Space & Scale, but not Time.
-Local currencies are not complete currencies. They optimize local space, but sacrifice scale and time.
+- Gold is great at Time & Scale, but not Space.
+- Fiat is great at Space & Scale, but not Time.
+- Local currencies are not complete currencies. They optimize local space, but sacrifice scale and time.
 
 Until the invention of Bitcoin.
 
 **Bitcoin is the first form of Money that excels simultaneously in all three functions.**
-With our research here we believe Bitcoin could be a pivotal technology that allows humanity to finally use/comply with thermodynamic laws (which are the same everywhere on Earth) locally, at scale and to peg it back to a global monetary system that would have other benefits for global coordination (common unit of measure of value everywhere on Earth) solving the Space Trilemma.
+With our research here we believe Bitcoin could be a pivotal technology that allows humanity to finally use/comply with thermodynamic laws (which are the same everywhere on Earth) locally, at scale and to peg it back to a global monetary system that would have other benefits for global coordination (common unit of measure of value everywhere on Earth) solving for the (Space,Time,Scale) Trilemma.
 
 
 > **We therefore invite Degrowth Economists and the Degrowth Journal to:**  
@@ -205,7 +205,7 @@ With our research here we believe Bitcoin could be a pivotal technology that all
 ---
 
 **Contact**: `@sufficiencyprotocol.org`  
-**Pilot**: Exploring options
+**Pilot**: Exploring options   
 **Code**: [sufficiency-protocol](https://github.com/pascalranaora/sufficiency-protocol)  
 
 ---
