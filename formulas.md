@@ -24,9 +24,9 @@
 ## 2. **Thermodynamic Capacity $$\( L_t \)$$**  
 **Local low-entropy stock** (Georgescu-Roegen)
 
-$$\[
+$$\
 L_t = E_t + H_t + C_t
-\]$$
+\$$
 
 | Term | Meaning | Unit | Example |
 |------|-------|------|--------|
@@ -34,9 +34,9 @@ L_t = E_t + H_t + C_t
 | $$\( H_t \)$$ | Human care/repair hours | hours | 200 hours bike fixes |
 | $$\( C_t \)$$ | Regenerative compost/food | kg | 300 kg tomatoes |
 
-$$\[
+$$\
 L_t = \alpha E_t + \beta H_t + \gamma C_t
-\]$$
+\$$
 
 > **Default weights**: $$\( \alpha = \beta = \gamma = 1 \)$$ (1 kWh = 1 hour = 1 kg)
 
@@ -44,16 +44,16 @@ L_t = \alpha E_t + \beta H_t + \gamma C_t
 
 ## 3. **EcoSats Supply Rule**
 
-$$\[
+$$\
 M_t^{\text{EcoSats}} = \min\left( \text{BTC vault}, \sum \text{verified } L_t \right)
-\]$$
+\$$
 
 - **BTC vault** = hard cap from Bitcoin (e.g., 1,000,000 sats)  
 - **Verified $$\( L_t \)$$** = oracle-signed sufficiency units  
 
-$$\[
+$$\
 \text{1 ES} = 1 \text{ sat} \oplus 1 \text{ unit of } L_t
-\]$$
+\$$
 
 > **XOR redemption**: You get **either** 1 sat **or** 1 unit — **never both**.
 
@@ -61,16 +61,16 @@ $$\[
 
 ## 4. **Issuance Curve (Degrowth by Design)**
 
-$$\[
+$$\
 \text{ES issued per month} = \min\left( \Delta L_t, \; 0.1 \cdot M_{t-1} \right)
-\]$$
+\$$
 
 - **Max 10 % growth/month**  
 - **Only if $$\( \Delta L_t > 0 \)$$** (new sufficiency added)
 
-$$\[
+$$\
 \Delta L_t = L_t - L_{t-1}
-\]$$
+\$$
 
 ---
 
@@ -93,29 +93,29 @@ B_t & \text{otherwise}
 
 ## 6. **HODL Lock (Anti-Speculation)**
 
-$$\[
+$$\
 \text{If } B_t > 5,000 \text{ ES} \quad \Rightarrow \quad \text{lock for } 365 \text{ days}
-\]$$
+\$$
 
 ---
 
 ## 7. **Exit Rule (Global Bridge)**
 
-$$\[
+$$\
 \text{Max BTC exit per month} = 0.1 \cdot \text{BTC vault}
-\]$$
+\$$
 
-$$\[
+$$\
 \text{ES burned on exit} = \text{sats withdrawn}
-\]$$
+\$$
 
 ---
 
 ## 8. **Proof of Thermodynamic Backing**
 
-$$\[
+$$\
 \text{Reserve Ratio} = \frac{\text{BTC in vault} + \text{verified } L_t}{\text{ES issued}} \geq 1
-\]$$
+\$$
 
 > Must be **published monthly** → `proof-of-reserves.md`
 
@@ -123,14 +123,14 @@ $$\[
 
 ## 9. **Full System Equation**
 
-$$\[
+$$\
 M_t^{\text{EcoSats}} = 
 \min\left(
 \underbrace{0.1 \cdot M_{t-1}}_{\text{10% growth cap}},
 \underbrace{\text{BTC vault}}_{\text{global hard cap}},
 \underbrace{\sum_{i} \text{verified } L_{t,i}}_{\text{local thermodynamic cap}}
 \right)
-\]$$
+\$$
 
 ---
 
@@ -159,4 +159,4 @@ B_{t+1} &= B_t (1 - 0.02) \quad \text{if } B_t > 1000 \\
 
 **All formulas are open-source.**  
 Fork, verify, deploy.  
-[github.com/sufficiency-protocol/formulas](https://github.com/sufficiency-protocol/formulas)
+github.com/sufficiency-protocol/formulas(https://github.com/sufficiency-protocol/formulas)
