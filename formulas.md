@@ -136,12 +136,13 @@ M_t^{\text{EcoSats}} =
 
 ## 10. **One-Page Summary (Print This!)**
 
-
-$$M_t &\leq k \cdot L_t$$
-$$L_t &= E_t + H_t + C_t$$ 
-$$1 \text{ ES} &= 1 \text{ sat} \oplus 1 \text{ unit } L_t$$
-$$\Delta M_t &\leq 0.1 \cdot M_{t-1}$$
-$$B_{t+1} &= B_t (1 - 0.02) \quad \text{if } B_t > 1000$$
+```latex
+\begin{align*}
+M_t &\leq k \cdot L_t \\
+L_t &= E_t + H_t + C_t \\
+1 \text{ ES} &= 1 \text{ sat} \oplus 1 \text{ unit } L_t \\
+\Delta M_t &\leq 0.1 \cdot M_{t-1} \\
+B_{t+1} &= B_t (1 - 0.02) \quad \text{if } B_t > 1000 \\
 \text{Exit} &\leq 0.1 \cdot \text{vault}
 \end{align*}
 ```
