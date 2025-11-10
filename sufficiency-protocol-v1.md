@@ -13,7 +13,7 @@ The **Degrowth movement** and **Bitcoin** appear irreconcilable: one demands the
 This whitepaper resolves the paradox by demonstrating that **Bitcoin’s terminal supply curve** (21 million) is the **first engineered monetary expression** of **Nicholas Georgescu-Roegen’s Fourth Law of Thermodynamics**—the irreversible entropic degradation of low-entropy resources.  
 
 We introduce **The Sufficiency Protocol**, a framework where:  
-- **Monetary issuance degrows to zero** (Nakamoto)  
+- **Monetary issuance _degrows_ to zero** (Nakamoto)  
 - **Energy is used only where it would otherwise dissipate** (Georgescu-Roegen)  
 - **Local sufficiency units** are backed by **hard-capped digital scarcity**  
 
