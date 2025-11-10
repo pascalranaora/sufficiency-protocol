@@ -170,9 +170,9 @@ Throughout History, no monetary system has managed to satisfy all 3 functions of
 
 This trade-off can be described as a Money Trilemma: you can optimize for 2, but not all 3.
 
-Gold is great at Time & Scale, but not Space.
-Fiat is great at Space & Scale, but not Time.
-Local currencies are not complete currencies. They optimize local space, but sacrifice scale and time.
+- Gold is great at Time & Scale, but not Space.
+- Fiat is great at Space & Scale, but not Time.
+- Local currencies are not complete currencies. They optimize local space, but sacrifice scale and time.
 
 Until the invention of Bitcoin.
 
