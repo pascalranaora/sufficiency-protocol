@@ -110,8 +110,8 @@ No solar? → Skip! Start with **hours** (`⚒`) only.
 ┌──────────────────────────────────────────┐
 │           WELCOME TO ECO SATS!           │
 │                                          │
-│  ☀️ 1 EcoSat = 1 kWh extra sun power      │
-│  ⚒️ 1 EcoSat = 1 hour help or repair      │
+│  ☀️ 1 EcoSat = 1 kWh extra sun power     │
+│  ⚒️ 1 EcoSat = 1 hour help or repair     │
 │  🌱 1 EcoSat = 1 kg compost or food      │
 │                                          │
 │  → Earn by helping                       │
