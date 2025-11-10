@@ -197,3 +197,83 @@ Your village now has:
 
 **You don’t need to understand code. You just need to care.**  
 Now go plant the first EcoSat! 🌱⚡⚒
+
+
+# **BONUS: Why a Pleb Uses EcoSats Instead of Raw Sats**  
+**“Sats are global. EcoSats are *yours*.”**
+
+| Pleb’s Daily Life | Raw Sats | **EcoSats** |
+|-------------------|--------|-------------|
+| **You fix your neighbor’s bike** | No one pays you in sats | **Earn 50 ES** (`⚒50`) → spend at bakery |
+| **You have extra solar at noon** | Sats don’t care | **Earn 100 ES** (`☀100`) → pay rent |
+| **You grow tomatoes** | No sat reward | **Earn 30 ES** (`🌱30`) → buy tools |
+| **You want bread from Maria** | She wants **local** | **Pay 40 ES** → she accepts instantly |
+| **You need to buy online** | Use raw sats | **Swap 100 ES → 100 sats** (10 % cap) |
+
+---
+
+## **10 Pleb Reasons (No Jargon)**
+
+| # | Reason | Raw Sats | **EcoSats** |
+|---|--------|--------|-------------|
+| 1 | **Earn for real work** | Only mining or trading | **Fixing, growing, sharing = ES** |
+| 2 | **Spend where you live** | Merchants want fiat | **Co-op, café, neighbor accept ES** |
+| 3 | **No volatility stress** | 1 sat = $0.0006 → panic | **1 ES = 1 hour help** (stable value) |
+| 4 | **Money that *helps* you** | HODL or lose | **Demurrage pushes you to spend local** |
+| 5 | **Exit when *you* need** | Always on-chain fees | **Swap ES → sats** (smooth, capped) |
+| 6 | **No KYC** | Some on-ramps ask ID | **Minibits wallet = phone + QR** |
+| 7 | **Backed by Bitcoin** | Yes | **Yes + your village** |
+| 8 | **No inflation** | 21 M cap | **Capped + local cap** |
+| 9 | **You control the rules** | Bitcoin rules | **Your council votes on ☀⚒🌱** |
+| 10 | **Feels like community** | Cold ledger | **Warm bread, fixed bike, shared sun** |
+
+---
+
+## **Pleb’s Weekly Flow (EcoSats)**
+
+```text
+Monday: 2 kWh solar spill → +200 ES (☀)
+Tuesday: Fix bike (1 hr) → +100 ES (⚒)
+Wednesday: Buy bread → –80 ES
+Thursday: Sell tomatoes → +60 ES (🌱)
+Friday: Swap 50 ES → 50 sats (online order)
+Saturday: Balance = 280 ES → spend or demurrage eats 2%
+```
+
+**Raw Sats?** → You’d need to **sell labor for fiat → buy BTC** → **pay fees**.  
+**EcoSats?** → **Direct, local, instant.**
+
+---
+
+## **Metaphor: Sats vs EcoSats**
+
+| | **Sats** | **EcoSats** |
+|--|--------|------------|
+| Like | **Gold bar in a vault** | **Gift card at your co-op** |
+| Use | Save or trade globally | **Spend daily, earn daily** |
+| Value | Market price | **Your time + sun + soil** |
+
+---
+
+## **Pleb’s One-Liner**
+
+> **“Sats are for HODLing. EcoSats are for *living*.”**
+
+---
+
+## **Try It in 5 Minutes**
+
+1. **Download Minibits** (App Store / Play)  
+2. **Scan village QR** → get 10 ES free  
+3. **Fix something** → earn ES  
+4. **Buy coffee** → spend ES  
+
+**No sats needed to start.**  
+**Sats are the exit — not the entrance.**
+
+---
+
+**EcoSats = Bitcoin for the 99 % who don’t mine or trade.**  
+**It’s money that *works* — not money that waits.**
+
+*Run your node: [github.com/pascalranaora/sufficiency-protocol](https://github.com/pascalranaora/sufficiency-protocol)*
