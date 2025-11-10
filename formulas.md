@@ -6,8 +6,8 @@
 
 ## Core Principle  
 > **Money supply cannot exceed local thermodynamic capacity.**  
-> → \( M_t^{\text{local}} \leq k \cdot L_t \)  
-> where \( L_t \) = **low-entropy services** (energy, labor, materials) available locally.
+> → $$\( M_t^{\text{local}} \leq k \cdot L_t \)$$  
+> where $$\( L_t \)$$ = **low-entropy services** (energy, labor, materials) available locally.
 
 ---
 
@@ -15,9 +15,9 @@
 
 | System | Money Supply Formula | Entropy Denial? |
 |-------|-----------------------|-----------------|
-| **Fiat** | \( M_t = M_0 e^{rt} \) | Yes — unbounded |
-| **Bitcoin** | \( M_t = \sum_{h=0}^{n} 50 \cdot 10^8 \cdot \frac{1}{2^{\lfloor h/210000 \rfloor}} \) | No — capped |
-| **EcoSats (Degrowth)** | \( M_t^{\text{local}} = \min(M_t^{\text{BTC cap}}, k \cdot L_t) \) | **No — thermodynamically bounded** |
+| **Fiat** | $$\( M_t = M_0 e^{rt} \)$$ | Yes — unbounded |
+| **Bitcoin** | $$\( M_t = \sum_{h=0}^{n} 50 \cdot 10^8 \cdot \frac{1}{2^{\lfloor h/210000 \rfloor}} \$$) | No — capped |
+| **EcoSats (Degrowth)** | $$\( M_t^{\text{local}} = \min(M_t^{\text{BTC cap}}, k \cdot L_t) \$$) | **No — thermodynamically bounded** |
 
 ---
 
