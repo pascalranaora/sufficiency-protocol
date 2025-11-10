@@ -97,7 +97,7 @@ $$\[ M_t^{\text{local}} = \min(M_t^{\text{BTC cap}}, k \cdot L_t) \]$$
 where $$\( L_t \)$$ = local low-entropy services (hours, kWh, kg compost)  
 
 → **Money supply cannot exceed local thermodynamic capacity**.
-
+See all formulas : [sufficiency-protocol/formulas](https://github.com/pascalranaora/sufficiency-protocol/blob/main/formulas.md)
 ---
 
 ## 5. Implementation Roadmap  
