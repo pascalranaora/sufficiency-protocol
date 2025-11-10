@@ -135,7 +135,7 @@ No solar? → Skip! Start with **hours** (`⚒`) only.
 | **Cashu** | The “EcoSats printer” | Yes (free) |
 | **Solar meter** | Counts extra sun | Only if you have solar |
 
-→ Full guide with copy-paste commands: [github.com/ecosats/beginner](https://github.com/ecosats/beginner)
+→ Full guide with copy-paste commands (just some high level principles for now): [ecosats-starter-kit](https://github.com/pascalranaora/sufficiency-protocol/tree/main/ecosats-starter)
 
 ---
 
@@ -190,8 +190,8 @@ Your village now has:
 **EcoSats = Bitcoin for the real world.**  
 **Start small. Grow local. Stay sufficient.**
 
-*Download everything:* [ecosats.org/beginner](https://ecosats.org/beginner)  
-*Join chat:* `#ecosats-beginners:matrix.org`  
+*Download everything:* (coming soon) [ecosats.org/beginner](https://ecosats.org/beginner)  
+*Join chat:* (coming soon) `#ecosats-beginners:matrix.org`  
 
 ---
 

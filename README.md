@@ -1,2 +1,2 @@
 # The Sufficiency Protocol
-The end of infinity
+A 2.0 planetary monetary system compatible with a finite planet.
