@@ -136,7 +136,7 @@ $$\
 
 ---
 
-## 9. **One-Page Executive Summary (For Parrique’s Desk)**
+## 9. **One-Page Executive Summary**
 
 ```latex
 \begin{align*}
@@ -148,13 +148,13 @@ T_t &\leq L_t \quad \text{(throughput cap)}
 \end{align*}
 ```
 
-> **“A monetary system that grows only when the biosphere allows it.”**
+> **“A monetary system backed by energy and that grows only when the biosphere allows it.”**
 
 ---
 
 ## 10. **Call to Economists**
 
-In this repository, we are attempting to extend Satoshi Nakamoto original ideas to make them Degrowth compatible. A global monetary system that could apply to local communities without the need on relying on trust of central authorities (a transparent and automated system).  
+In this repository, we are attempting to extend Satoshi Nakamoto original ideas to make them Degrowth compatible. A global monetary system that could apply to local communities without the need on relying on trust of central authorities (a transparent and automated system) and without the need on inventing new local currencies but instead use global template that could be used Worldwide and adapted to the Digital Era.
 
 According to Economists, Money is a technology to move Value across Space, Time, and Scale.
 
@@ -177,13 +177,13 @@ This trade-off can be described as a Money Trilemma: you can optimize for 2, but
 Until the invention of Bitcoin.
 
 **Bitcoin is the first form of Money that excels simultaneously in all three functions.**
-With our research here we believe Bitcoin could be a pivotal technology that allows humanity to finally use/comply with thermodynamic laws (which are the same everywhere on Earth) locally, at scale and to peg it back to a global monetary system that would have other benefits for global coordination (common unit of measure of value everywhere on Earth) solving for the (Space,Time,Scale) Trilemma.
+With our research here we believe Bitcoin could be a pivotal technology that allows humanity to finally use/comply with thermodynamic laws (which are the same everywhere on Earth) locally, at scale and to peg it back to a global monetary system that would have other benefits for global coordination (common unit of measure of value everywhere on Earth) solving for the (Space,Time,Scale) Trilemma. 
 
 
-> **We therefore invite Degrowth Economists and the Degrowth Journal to:**  
-> 1. **Peer-review** the thermodynamic model  
-> 2. **Co-design** some pilot studies ?
-> 3. **Publish** or consider Bitcoin in some original new work in *Ecological Economics* or *Degrowth Journal*
+**We therefore invite Degrowth Economists and the Degrowth Journal to:**  
+1. **Peer-review** the thermodynamic model
+2. **Co-design** some pilot studies ?
+3. **Publish** or consider Bitcoin in some original new work in *Ecological Economics* or *Degrowth Journal*
 
 ---
 
