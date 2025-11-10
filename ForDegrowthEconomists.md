@@ -23,8 +23,8 @@
 
 $$\
 \frac{dS}{dt} \geq 0 \quad \text{(Second Law)}
-\
-\
+\$$
+$$\
 \frac{dS_{\text{economy}}}{dt} = \underbrace{\frac{dS_{\text{resource depletion}}}{dt}}_{\text{low-entropy fund}} + \underbrace{\frac{dS_{\text{pollution}}}{dt}}_{\text{high-entropy sink}}
 \$$
 
