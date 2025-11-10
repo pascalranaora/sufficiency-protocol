@@ -49,7 +49,7 @@ M_t^{\text{EcoSats}} = \min\left( \text{BTC vault}, \sum \text{verified } L_t \r
 \]$$
 
 - **BTC vault** = hard cap from Bitcoin (e.g., 1,000,000 sats)  
-- **Verified $$\( L_t \)** = oracle-signed sufficiency units$$  
+- **Verified $$\( L_t \)$$** = oracle-signed sufficiency units  
 
 $$\[
 \text{1 ES} = 1 \text{ sat} \oplus 1 \text{ unit of } L_t
