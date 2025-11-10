@@ -94,7 +94,7 @@ Let:
 **Bitcoin**: $$\( M_t = \sum_{h=0}^{n} 50 \cdot 10^8 \cdot \frac{1}{2^{\lfloor h/210000 \rfloor}} \)$$ → **bounded**  
 
 **Sufficiency Protocol**:  
-$$\[ M_t^{\text{local}} = \min(M_t^{\text{BTC cap}}, k \cdot L_t) \]$$  
+$$\ M_t^{\text{local}} = \min(M_t^{\text{BTC cap}}, k \cdot L_t) \$$  
 where $$\( L_t \)$$ = local low-entropy services (hours, kWh, kg compost)  
 
 → **Money supply cannot exceed local thermodynamic capacity**. See all formulas : [sufficiency-protocol/formulas](https://github.com/pascalranaora/sufficiency-protocol/blob/main/formulas.md)
