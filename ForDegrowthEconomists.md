@@ -21,19 +21,19 @@
 
 ## 2. **Georgescu-Roegen’s Entropy Law — Formalized**
 
-$$\[
+$$\
 \frac{dS}{dt} \geq 0 \quad \text{(Second Law)}
-\]
-\[
+\
+\
 \frac{dS_{\text{economy}}}{dt} = \underbrace{\frac{dS_{\text{resource depletion}}}{dt}}_{\text{low-entropy fund}} + \underbrace{\frac{dS_{\text{pollution}}}{dt}}_{\text{high-entropy sink}}
-\]$$
+\$$
 
 **Fiat money** pretends $$\( \frac{dS}{dt} = 0 \)$$ → **infinite claims on finite stocks**.  
 **EcoSats** enforces:
 
-$$\[
+$$\
 M_t \leq k \cdot (F_t - S_t)
-\]$$
+\$$
 
 where:  
 - $$\( F_t \)$$ = **low-entropy fund** (renewable flows + non-renewable stocks)  
@@ -58,17 +58,17 @@ where:
 
 Replace neoclassical $$\( Y = F(K, L) \)$$ with:
 
-$$\[
+$$\
 Y_t = f(L_t, \sigma_t)
-\]$$
+\$$
 
 - $$\( L_t \)$$ = **local low-entropy services** (kWh, hours, kg)  
 - $$\( \sigma_t \)$$ = **social sufficiency threshold** (e.g., 2000 kWh/person/year)  
 - $$\( f \)$$ = **non-substitutable** (no capital-energy substitution beyond $$\( \sigma_t \)$$)
 
-$$\[
+$$\
 \boxed{M_t = \min\left( M^{\text{BTC cap}}, \; \alpha \cdot (L_t - \sigma_t \cdot N) \right)}
-\]$$
+\$$
 
 > **No money issued for luxury throughput above sufficiency.**
 
@@ -76,9 +76,9 @@ $$\[
 
 ## 5. **Demurrage as Negative Interest (Gesell + Keynes)**
 
-$$\[
+$$\
 i_{\text{demurrage}} = -2\% \text{ per month} \quad \text{for } B_t > 1000 \text{ ES}
-\]$$
+\$$
 
 - **Gesell (1916)**: “Money should rust like iron.”  
 - **Keynes (1936)**: “Negative interest to stimulate circulation.”  
@@ -104,9 +104,9 @@ Herman Daly (1977):
 | Capital stock | $$\( K_t \)$$ (maintenance only) |
 | **Throughput** | $$\( T_t \leq L_t \)$$ → **capped by design** |
 
-$$\[
+$$\
 \boxed{T_t = \min(T_{t-1}, L_t)}
-\]$$
+\$$
 
 → **Monetary steady-state** without central planning.
 
