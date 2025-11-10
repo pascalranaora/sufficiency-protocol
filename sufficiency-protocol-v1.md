@@ -73,7 +73,7 @@ Deploy miners **only where energy would be lost**:
 > *“Use energy that would increase entropy anyway.”*  
 
 ### Principle 3: **Sufficiency-Backed Local Currencies**  
-**EcoSats** (see spec):  
+**EcoSats** (see [spec](https://github.com/pascalranaora/sufficiency-protocol/blob/main/EcoSats-Spec-v1.md)):  
 ```text
 1 ES = 1 satoshi ⊻ 1 sufficiency unit (kWh excess, hour care, kg compost)
 ```
