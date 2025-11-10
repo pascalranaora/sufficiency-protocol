@@ -61,31 +61,31 @@ $$\[
 
 ## 4. **Issuance Curve (Degrowth by Design)**
 
-\[
+$$\[
 \text{ES issued per month} = \min\left( \Delta L_t, \; 0.1 \cdot M_{t-1} \right)
-\]
+\]$$
 
 - **Max 10 % growth/month**  
-- **Only if \( \Delta L_t > 0 \)** (new sufficiency added)
+- **Only if $$\( \Delta L_t > 0 \)$$** (new sufficiency added)
 
-\[
+$$\[
 \Delta L_t = L_t - L_{t-1}
-\]
+\]$$
 
 ---
 
 ## 5. **Demurrage (Anti-Hoarding)**
 
-\[
+$$\[
 B_{t+1} = 
 \begin{cases} 
 B_t \cdot (1 - d) & \text{if } B_t > B_{\text{min}} \\
 B_t & \text{otherwise}
 \end{cases}
-\]
+\]$$
 
-- \( d = 0.02 \) (2 % per month)  
-- \( B_{\text{min}} = 1,000 \) ES  
+- $$\( d = 0.02 \)$$ (2 % per month)  
+- $$\( B_{\text{min}} = 1,000 \)$$ ES  
 
 **Burned ES** → sent to `OP_RETURN` → **thermodynamic sink**
 
@@ -93,29 +93,29 @@ B_t & \text{otherwise}
 
 ## 6. **HODL Lock (Anti-Speculation)**
 
-\[
+$$\[
 \text{If } B_t > 5,000 \text{ ES} \quad \Rightarrow \quad \text{lock for } 365 \text{ days}
-\]
+\]$$
 
 ---
 
 ## 7. **Exit Rule (Global Bridge)**
 
-\[
+$$\[
 \text{Max BTC exit per month} = 0.1 \cdot \text{BTC vault}
-\]
+\]$$
 
-\[
+$$\[
 \text{ES burned on exit} = \text{sats withdrawn}
-\]
+\]$$
 
 ---
 
 ## 8. **Proof of Thermodynamic Backing**
 
-\[
+$$\[
 \text{Reserve Ratio} = \frac{\text{BTC in vault} + \text{verified } L_t}{\text{ES issued}} \geq 1
-\]
+\]$$
 
 > Must be **published monthly** → `proof-of-reserves.md`
 
