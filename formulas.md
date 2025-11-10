@@ -30,30 +30,30 @@ L_t = E_t + H_t + C_t
 
 | Term | Meaning | Unit | Example |
 |------|-------|------|--------|
-| \( E_t \) | Excess renewable energy | kWh | 500 kWh solar spill |
-| \( H_t \) | Human care/repair hours | hours | 200 hours bike fixes |
-| \( C_t \) | Regenerative compost/food | kg | 300 kg tomatoes |
+| $$\( E_t \)$$ | Excess renewable energy | kWh | 500 kWh solar spill |
+| $$\( H_t \)$$ | Human care/repair hours | hours | 200 hours bike fixes |
+| $$\( C_t \)$$ | Regenerative compost/food | kg | 300 kg tomatoes |
 
-\[
+$$\[
 L_t = \alpha E_t + \beta H_t + \gamma C_t
-\]
+\]$$
 
-> **Default weights**: \( \alpha = \beta = \gamma = 1 \) (1 kWh = 1 hour = 1 kg)
+> **Default weights**: $$\( \alpha = \beta = \gamma = 1 \)$$ (1 kWh = 1 hour = 1 kg)
 
 ---
 
 ## 3. **EcoSats Supply Rule**
 
-\[
+$$\[
 M_t^{\text{EcoSats}} = \min\left( \text{BTC vault}, \sum \text{verified } L_t \right)
-\]
+\]$$
 
 - **BTC vault** = hard cap from Bitcoin (e.g., 1,000,000 sats)  
-- **Verified \( L_t \)** = oracle-signed sufficiency units  
+- **Verified $$\( L_t \)** = oracle-signed sufficiency units$$  
 
-\[
+$$\[
 \text{1 ES} = 1 \text{ sat} \oplus 1 \text{ unit of } L_t
-\]
+\]$$
 
 > **XOR redemption**: You get **either** 1 sat **or** 1 unit — **never both**.
 
