@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>EcoSats • Sufficiency Protocol</title>
+  <meta name="description" content="Finite money for a finite planet. Bitcoin-backed local currency that grows only when the biosphere allows it." />
+
+  <!-- Google Fonts: Satoshi (Bitcoin-style) -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=JetBrains+Mono&display=swap" rel="stylesheet">
+
+  <style>
+    :root {
+      --btc-orange: #f7931a;
+      --btc-dark: #1a1a1a;
+      --btc-gray: #2d2d2d;
+      --light: #f4f4f4;
+      --green: #27ae60;
+      --sun: #f39c12;
+    }
+    * { margin:0; padding:0; box-sizing:border-box; }
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--btc-dark);
+      color: #eee;
+      line-height: 1.7;
+      padding: 2rem 1rem;
+    }
+    .container { max-width: 1000px; margin: auto; }
+
+    header {
+      text-align: center;
+      padding: 3rem 0;
+      border-bottom: 1px solid var(--btc-orange);
+    }
+    h1 {
+      font-size: 2.8rem;
+      color: var(--btc-orange);
+      margin-bottom: 0.5rem;
+    }
+    .tagline {
+      font-size: 1.3rem;
+      color: #aaa;
+      font-style: italic;
+    }
+
+    .vp-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+      margin: 3rem 0;
+    }
+    .card {
+      background: var(--btc-gray);
+      border: 1px solid #444;
+      border-radius: 12px;
+      padding: 1.5rem;
+      transition: transform 0.2s, border-color 0.2s;
+    }
+    .card:hover {
+      transform: translateY(-4px);
+      border-color: var(--btc-orange);
+    }
+    .card h3 {
+      color: var(--btc-orange);
+      margin-bottom: 0.5rem;
+      font-size: 1.3rem;
+    }
+    .card .icon {
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .equations {
+      background: #111;
+      padding: 1.5rem;
+      border-radius: 8px;
+      font-family: 'JetBrains Mono', monospace;
+      color: #0f0;
+      margin: 2rem 0;
+      overflow-x: auto;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem 0;
+      color: #666;
+      font-size: 0.9rem;
+    }
+    a { color: var(--btc-orange); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    @media (prefers-color-scheme: light) {
+      body { background: #fff; color: #222; }
+      .card { background: #fafafa; border-color: #ddd; }
+      .equations { background: #f8f8f8; color: #d00; }
+      h1 { color: var(--btc-orange); }
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+
+  <!-- HEADER -->
+  <header>
+    <h1>EcoSats • Sufficiency Protocol</h1>
+    <p class="tagline">Finite money for a finite planet</p>
+  </header>
+
+  <!-- VALUE PROPOSITION GRID -->
+  <div class="vp-grid">
+
+    <div class="card">
+      <div class="icon">Finite supply</div>
+      <h3>Hard-Capped Money</h3>
+      <p>21 million BTC + local sufficiency units. <strong>No inflation.</strong> Money ends in 2140.</p>
+    </div>
+
+    <div class="card">
+      <div class="icon">Thermodynamic capacity</div>
+      <h3>Bounded by Nature</h3>
+      <p><strong>M ≤ L</strong>: Money supply cannot exceed local low-entropy capacity (sun, care, soil).</p>
+    </div>
+
+    <div class="card">
+      <div class="icon">Circulation</div>
+      <h3>Money Must Move</h3>
+      <p>–2% monthly demurrage on hoards. <strong>Circulation = wellbeing.</strong></p>
+    </div>
+
+    <div class="card">
+      <div class="icon">Local economy</div>
+      <h3>Local Loops, Global Bridge</h3>
+      <p>Earn <code>☀⚒🌱</code> locally. Exit to BTC only when needed. <strong>No financialization.</strong></p>
+    </div>
+
+    <div class="card">
+      <div class="icon">Proof</div>
+      <h3>Thermodynamically Honest</h3>
+      <p>Proof-of-Reserves + oracle-verified sufficiency. <strong>Audit the entropy.</strong></p>
+    </div>
+
+    <div class="card">
+      <div class="icon">Pilot</div>
+      <h3>Pilot Ready</h3>
+      <p>Sant Joan de Mediona, Catalonia — Q1 2026. <strong>Join the experiment.</strong></p>
+    </div>
+
+  </div>
+
+  <!-- CORE EQUATIONS -->
+  <div class="equations">
+    <strong>EcoSats Core:</strong><br>
+    <code>Mₜ ≤ α (Lₜ − σN)</code> → Money capped by sufficiency<br>
+    <code>Lₜ = Eₜ + Hₜ + Cₜ</code> → Sun + Care + Compost<br>
+    <code>ΔMₜ ≤ 0.1 Mₜ₋₁</code> → Max 10% growth/month<br>
+    <code>i = −2% / month</code> → Demurrage on hoards<br>
+    <code>Tₜ ≤ Lₜ</code> → Throughput cannot exceed nature
+  </div>
+
+  <!-- CALL TO ACTION -->
+  <p style="text-align:center; margin: 3rem 0; font-size:1.1rem;">
+    <strong>Bitcoin was the seed. EcoSats is the soil.</strong><br>
+    A post-growth monetary protocol — <em>thermodynamically honest, locally rooted, globally bridged.</em>
+  </p>
+
+  <p style="text-align:center;">
+    <a href="https://github.com/pascalranaora/sufficiency-protocol" target="_blank">Read the Whitepaper</a> • 
+    <a href="https://github.com/sufficiency-protocol/ecosats-starter" target="_blank">Run a Node</a> • 
+    <a href="mailto:parrique@sufficiencyprotocol.org">Contact</a>
+  </p>
+
+</div>
+
+<footer>
+  &copy; 2025 Sufficiency Protocol • Open Source under CC-BY-SA 4.0 • 
+  <a href="https://github.com/pascalranaora/sufficiency-protocol">GitHub</a>
+</footer>
+
+</body>
+</html>
