@@ -159,4 +159,4 @@ B_{t+1} &= B_t (1 - 0.02) \quad \text{if } B_t > 1000 \\
 
 **All formulas are open-source.**  
 Fork, verify, deploy.  
-github.com/sufficiency-protocol/formulas(https://github.com/sufficiency-protocol/formulas)
+[sufficiency-protocol/formulas]([https://github.com/sufficiency-protocol/formulas](https://github.com/pascalranaora/sufficiency-protocol/blob/main/formulas.md))
