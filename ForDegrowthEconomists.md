@@ -154,7 +154,31 @@ T_t &\leq L_t \quad \text{(throughput cap)}
 
 ## 10. **Call to Economists**
 
-> **We invite Degrowth Economists and the Degrowth Journal to:**  
+> In this repo, we have extended Satoshi Nakamoto original ideas to make them Degrowth compatible. A global monetary system that could apply locally without the need on relying on central authorities to store the value. 
+
+Money is a technology that allows the transfer of value across space, time, and scale.
+Value is the utility that humans ascribe to goods and services. It is highly subjective and varies across time and space.
+
+Unwittingly, economists have defined the functions of money as follows:
+
+- Store of value (Time)
+- Medium of exchange (Space)
+- Unit of account (Scale)
+
+Throughout history, no monetary system has managed to simultaneously fulfill all three functions of money. This is the origin of the idea of ​​guaranteeing money and the need to distinguish between currency and foreign exchange.
+
+This trade-off can be described as a monetary trilemma: two functions can be optimized, but not all three.
+
+Gold excels in time and scale, but not in space. Fiat currency excels in space and scale, but not in time. Local currencies are not complete currencies.
+
+They optimize local space, but sacrifice scale and time.
+
+**Bitcoin is the first form of currency that excels simultaneously in all three functions.**
+With ou research here we see that Bitcoin could be the pivotal technology that allows humanity to use Thermodynamic laws (which are the same everywhere around Earth) and to peg it back to a Global monetary system that would have other benefits for global coordination.
+
+
+
+> **We there invite Degrowth Economists and the Degrowth Journal to:**  
 > 1. **Peer-review** the thermodynamic model  
 > 2. **Co-design** the pilot study ?
 > 3. **Publish** in *Ecological Economics* or *Degrowth Journal*
