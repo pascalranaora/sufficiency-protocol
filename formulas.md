@@ -76,13 +76,13 @@ $$\[
 
 ## 5. **Demurrage (Anti-Hoarding)**
 
-$$\[
+$$\
 B_{t+1} = 
 \begin{cases} 
 B_t \cdot (1 - d) & \text{if } B_t > B_{\text{min}} \\
 B_t & \text{otherwise}
 \end{cases}
-\]$$
+\$$
 
 - $$\( d = 0.02 \)$$ (2 % per month)  
 - $$\( B_{\text{min}} = 1,000 \)$$ ES  
