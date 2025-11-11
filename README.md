@@ -1,16 +1,14 @@
----
 
-# **The Sufficiency Protocol** 
-### *Merging Georgescu-Roegen’s Bioeconomics with Nakamoto’s Scarcity*  
-**Version 1.0 — November 2025** 
-*Authors: [Pascal Ranaora] — Open Source under CC-BY-SA 4.0*  
+# **The Sufficiency Protocol**
+### *Merging Georgescu-Roegen’s Bioeconomics with Nakamoto’s Scarcity*
+**Version 1.0 — November 2025**
+*Authors: [Pascal Ranaora] — Open Source under CC-BY-SA 4.0*
 
 - [Manifesto](https://github.com/pascalranaora/sufficiency-protocol/blob/main/Manifesto-one-pager.md)
 - [For Degrowth/Post-Growth Economists](https://github.com/pascalranaora/sufficiency-protocol/blob/main/ForDegrowthEconomists.md)
 - [Formulas](https://github.com/pascalranaora/sufficiency-protocol/blob/main/formulas.md)
 
 ---
-
 
 ## Abstract  
 The **Degrowth movement** and **Bitcoin** appear irreconcilable: one demands the end of exponential growth, the other is powered by it.  
