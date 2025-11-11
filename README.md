@@ -6,10 +6,6 @@ _A 2.0 planetary monetary system compatible with a finite planet._
 *Authors: [Pascal Ranaora] — Open Source under CC-BY-SA 4.0*
 ![Sufficiency Protocol](https://github.com/pascalranaora/sufficiency-protocol/blob/main/SustainableBitcoin.png)
 
-- [Manifesto](https://github.com/pascalranaora/sufficiency-protocol/blob/main/Manifesto-one-pager.md)
-- [For Degrowth/Post-Growth Economists](https://github.com/pascalranaora/sufficiency-protocol/blob/main/ForDegrowthEconomists.md)
-- [Formulas](https://github.com/pascalranaora/sufficiency-protocol/blob/main/formulas.md)
-
 ---
 
 ## Abstract  
@@ -169,3 +165,9 @@ Fork, remix, deploy.
 ---
 
 *The revolution will be capped at 21 million.*
+
+- [For Degrowth/Post-Growth Economists](https://github.com/pascalranaora/sufficiency-protocol/blob/main/ForDegrowthEconomists.md)
+- [EcoSats 101](https://github.com/pascalranaora/sufficiency-protocol/blob/main/EcoSatsBeginnersGuide.md)
+- [Formulas](https://github.com/pascalranaora/sufficiency-protocol/blob/main/formulas.md)
+- [Manifesto](https://github.com/pascalranaora/sufficiency-protocol/blob/main/Manifesto-one-pager.md)
+- [Whitepaper](https://github.com/pascalranaora/sufficiency-protocol/blob/main/sufficiency-protocol-v1.md)
