@@ -185,6 +185,8 @@ With our research here we believe Bitcoin could be a pivotal technology that all
 2. **Co-design** some pilot studies ?
 3. **Publish** or consider Bitcoin in some original new work in *Ecological Economics* or *Degrowth Journal*
 
+(optionnal) Also **check** the [Bitcoin Degrowth Dashboard](https://pascalranaora.github.io/bitcoin-degrowth/)
+
 ---
 
 ## References 
