@@ -1,8 +1,7 @@
 ---
-
-# **The Sufficiency Protocol**  
-A 2.0 planetary monetary system compatible with a finite planet.
+# **The Sufficiency Protocol**  A 2.0 planetary monetary system compatible with a finite planet.
 ### *Merging Georgescu-Roegen’s Bioeconomics with Nakamoto’s Scarcity*  
+![Sufficiency Protocol](https://github.com/pascalranaora/sufficiency-protocol/blob/main/SustainableBitcoin.png)
 **Version 1.0 — November 2025**  
 *Authors: [Pascal Ranaora] — Open Source under CC-BY-SA 4.0*  
 
