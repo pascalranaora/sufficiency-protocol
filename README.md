@@ -1,4 +1,5 @@
 ---
+
 # **The Sufficiency Protocol** 
 ### *Merging Georgescu-Roegen’s Bioeconomics with Nakamoto’s Scarcity*  
 ![Sufficiency Protocol](https://github.com/pascalranaora/sufficiency-protocol/blob/main/SustainableBitcoin.png)
