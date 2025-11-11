@@ -10,6 +10,8 @@
 - [Formulas](https://github.com/pascalranaora/sufficiency-protocol/blob/main/formulas.md))
 
 ---
+![Sufficiency Protocol](https://github.com/pascalranaora/sufficiency-protocol/blob/main/SustainableBitcoin.png)
+_A 2.0 planetary monetary system compatible with a finite planet._
 
 ## Abstract  
 The **Degrowth movement** and **Bitcoin** appear irreconcilable: one demands the end of exponential growth, the other is powered by it.  
