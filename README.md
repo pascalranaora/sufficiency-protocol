@@ -2,9 +2,7 @@
 
 # **The Sufficiency Protocol** 
 ### *Merging Georgescu-Roegen’s Bioeconomics with Nakamoto’s Scarcity*  
-![Sufficiency Protocol](https://github.com/pascalranaora/sufficiency-protocol/blob/main/SustainableBitcoin.png)
 **Version 1.0 — November 2025** 
-_A 2.0 planetary monetary system compatible with a finite planet._
 *Authors: [Pascal Ranaora] — Open Source under CC-BY-SA 4.0*  
 
 - [Manifesto](https://github.com/pascalranaora/sufficiency-protocol/blob/main/Manifesto-one-pager.md)
