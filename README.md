@@ -134,7 +134,7 @@ It is a **one-time entropy pump**—converting dissipative energy into **permane
 - **Global layer**: Bitcoin (hard cap, entropy-honest)  
 - **Local layer**: EcoSats (sufficiency-backed, demurrage-driven)  
 
-Together, they form **the first monetary system compatible with a finite planet**.
+Together, they could shape what would form **the first global monetary system compatible with a finite planet** solving both for local and global resources allocations and without sacrificing global scaling.
 
 ---
 
