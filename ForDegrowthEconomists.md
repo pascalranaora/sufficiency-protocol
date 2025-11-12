@@ -177,7 +177,7 @@ This trade-off can be described as a Money Trilemma: you can optimize for 2, but
 Until the invention of Bitcoin.
 
 **Bitcoin is the first form of Money that excels simultaneously in all three functions.**
-With our research here we believe Bitcoin could be a pivotal technology that allows humanity to finally use/comply with thermodynamic laws (which are the same everywhere on Earth) locally, at scale and to peg it back to a global monetary system that would have other benefits for global coordination (common unit of measure of value everywhere on Earth) solving for the (Space,Time,Scale) Trilemma. 
+With our research here we believe Bitcoin could be a pivotal technology that allows humanity to finally use/comply with thermodynamic laws (which are the same everywhere on Earth) locally, at scale and to peg it back to a global monetary system that would have other benefits for global coordination (a common unit of account to measure value the same way everywhere on Earth) solving for the (Space,Time,Scale) Trilemma. 
 
 
 **We therefore invite Degrowth Economists and the Degrowth Journal to:**  
