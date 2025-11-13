@@ -182,17 +182,18 @@ With our research here we believe Bitcoin could be a pivotal technology that all
 
 John Nash, in his original article "Ideal Money" published in the [Southern Economic Journal (Vol. 69, No. 1, July 2002, pp. 4-11](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2325-8012.2002.tb00474.x), discusses monetary stability as an ideal comparable to physical units of measurement.
 
-Something he will also highlight in lectures such as the one given at Princeton University or at the European School of Economics in 1997, and extended versions in 2002-2008 (available online, for example, [here](https://web.math.princeton.edu/jfnj/texts_and_graphics/Main.Content/IDEAL_MONEY.../Older/PENN_STATE/babu.money.b.pdf)
+Something he will also highlight in lectures such as the one given at Princeton University or at the European School of Economics in 1997, and extended versions in 2002-2008 (available online, for example [here](https://web.math.princeton.edu/jfnj/texts_and_graphics/Main.Content/IDEAL_MONEY.../Older/PENN_STATE/babu.money.b.pdf) )
 
 He discusses an "ideal" currency that would be stable and free from "inflationary decadence" (intrinsically free of "inflationary decadence"), and which would asymptotically (that is, gradually, approaching a limit) a constant value, comparable to a unit of measurement such as the watt or the degree of temperature. He emphasizes zero inflation as an ideal objective, measured by domestic or international price indices, to facilitate utility transfers in game theory and promote long-term economic well-being. "The ideal concept would necessarily be that of a zero rate for what is called inflation."
 
 “Money should have the function of a standard of measurement and thus that it should become comparable to the watt or the hour or a degree of temperature.” 
 
 
-**We therefore invite Degrowth Economists and the Degrowth Journal to:**  
+**This work is an invitation for Degrowth PostGrowth Economists and the Degrowth Journal to:**  
 1. **Peer-review** the thermodynamic model
 2. **Co-design** some pilot studies ?
-3. **Publish** or consider Bitcoin in some original new work in *Ecological Economics* or *Degrowth Journal* and help complete John Nash vision with a neutral technology that we could make Degrowth compatible
+3. **Publish** or consider Bitcoin in some original new work in *Ecological Economics* or *Degrowth Journal*
+4. **Complete** John Nash Vision with a neutral technology that we could make Degrowth compatible
 
 Also **check** the [Bitcoin Degrowth Dashboard](https://pascalranaora.github.io/bitcoin-degrowth/)
 
@@ -210,7 +211,7 @@ Also **check** the [Bitcoin Degrowth Dashboard](https://pascalranaora.github.io/
 ---
 
 **EcoSats is not a cryptocurrency.**  
-**It is a post-growth monetary protocol.**
+**It is the soil for a post-growth monetary protocol.**
 
 > **“Bitcoin was the seed. EcoSats is the soil.”**
 
