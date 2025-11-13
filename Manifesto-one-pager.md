@@ -28,7 +28,7 @@ Result: **Proof-of-Useful-Work**, not endless growth.
 HODL culture is **anti-consumption**.  
 Long-term holders **lock capital in cold storage**, starving the growth machine.  
 1 BTC in a seed-phrase vault = **1 less yacht, 1 more forest**.
-Check out our [Bitcoin Degrowth Dashboard](https://pascalranaora.github.io/bitcoin-degrowth/)
+Check out our [Bitcoin Degrowth Dashboard](https://www.bitcoin-degrowth.org)
 
 ---
 
