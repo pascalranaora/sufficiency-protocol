@@ -162,6 +162,8 @@ def issue_ecosat(recipient_pubkey, sufficiency_proof):
 Attribute to: *The Sufficiency Protocol Collective*  
 Fork, remix, deploy.
 
+You can cite [www.sufficiencyprotocol.org](https://www.sufficiencyprotocol.org)
+
 ---
 
 *The revolution will be capped at 21 million.*
