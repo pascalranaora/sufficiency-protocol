@@ -206,7 +206,7 @@ Also **check** the [Bitcoin Degrowth Dashboard](https://pascalranaora.github.io/
 - Daly, H. (1991). *Steady-State Economics*.  
 - Gesell, S. (1916). *The Natural Economic Order*.
 - Nash, J. (2002). *Ideal Money*.
-- Nakamoto, S. (2008). *Bitcoin Whitepaper* (as entropy pump).
+- Nakamoto, S. (2008). *Bitcoin Whitepaper*.
 
 ---
 
