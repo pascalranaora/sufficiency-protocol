@@ -24,7 +24,8 @@ Result: **Proof-of-Useful-Work**, not endless growth.
 
 ---
 
-**III. Sufficiency, Not Speculation**  
+**III. Sufficiency, Not Speculation**
+
 HODL culture is **anti-consumption**.  
 Long-term holders **lock capital in cold storage**, starving the growth machine.  
 1 BTC in a seed-phrase vault = **1 less yacht, 1 more forest**.
