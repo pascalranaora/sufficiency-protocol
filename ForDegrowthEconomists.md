@@ -217,7 +217,7 @@ We realise **EcoSats is a baby step for a post-growth monetary protocol.**
 
 ---
 
-**Contact**: `Don't want to be contacted (Introvert)`  
+**Contact**: `support@sufficiencyprotocol.org`  
 **Pilot**: Exploring options   
 **Code**: [sufficiency-protocol](https://github.com/pascalranaora/sufficiency-protocol)  
 **More work**: [Bitcoin Degrowth Dashboard](https://pascalranaora.github.io/bitcoin-degrowth/)
