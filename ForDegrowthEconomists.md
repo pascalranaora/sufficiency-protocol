@@ -1,4 +1,4 @@
-# **Bitcoin Degrowth Manifesto — For Degrowth Economists**  
+# **Bitcoin Degrowth/PostGrowth Manifesto — For Degrowth/PostGrowth Economists**  
 **“A Post-Growth Monetary System That Respects the Entropy Law”**  
 *Finite Money for a Finite Planet — With Rigorous Equations*
 
