@@ -142,7 +142,7 @@ Instead of a single central bank digital currency (CBDC), we would have communit
 - limit the risks of changes to the Bitcoin base layer. Forks and code are maintained on a local digital currency.
 - accelerate the definancialization of the central authority and our economies at scale
 
-Bitcoin is the glue that holds the local digital currency stick and scale.
+Bitcoin is the glue that lets the local digital currency model stick and scale.
 
 Together LDC (Local digital Currency) + BTC could shape what would form **the first global monetary system compatible with a finite planet** solving for prioritising local resources allocations and energy spending, without sacrificing global scaling and having access to a global market. 
 
