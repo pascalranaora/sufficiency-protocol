@@ -193,7 +193,7 @@ He discusses an "ideal" currency that would be stable and free from "inflationar
 1. **Peer-review** the thermodynamic model
 2. **Co-design** some pilot studies ?
 3. **Publish** or consider Bitcoin in some original new work in *Ecological Economics* or *Degrowth Journal*
-4. **Complete** John Nash Vision with a neutral technology that we could make Degrowth compatible
+4. **Complete** John Nash Vision with a neutral technology that we could make PostGrowth compatible
 
 Also **check** the [Bitcoin Degrowth Dashboard](https://pascalranaora.github.io/bitcoin-degrowth/)
 
