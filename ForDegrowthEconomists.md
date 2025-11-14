@@ -154,7 +154,7 @@ T_t &\leq L_t \quad \text{(throughput cap)}
 
 ## 10. **Call to Economists**
 
-In this repository, we are attempting to extend Satoshi Nakamoto original ideas to make them Degrowth compatible. A global monetary system that could apply to local communities without the need on relying on trust of central authorities (a transparent and automated system) and without the need on inventing new local currencies but instead use global template that could be used Worldwide and adapted to the Digital Era.
+In this repository, we are attempting to extend Satoshi Nakamoto original ideas to make them Degrowth compatible. A global monetary system that could apply to local communities without the need on relying on trust of central authorities (a transparent and automated system). We will back any local currencies that will emit sufficiency/wellbeing money with Bitcoin: designing a global template that could be used Worldwide and adapted to the Digital Era.
 
 According to Economists, Money is a technology to move Value across Space, Time, and Scale.
 
