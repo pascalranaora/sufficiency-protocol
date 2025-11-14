@@ -224,5 +224,5 @@ We realise **EcoSats is a baby step for a post-growth monetary protocol.**
 
 ---
 **It's time to move on and opt-out from the GDP/profit-oriented extractive era.** 
-**Let's prioritize the wellbeing of our people and let's start collaboration and communities flourish everywhere over profit.**
+**Let's prioritize the wellbeing of our people and let's start over with collaboration and communities-centered economies everywhere over profit.**
 **Let’s build the first **thermodynamically honest money** — together.**
