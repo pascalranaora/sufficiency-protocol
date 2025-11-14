@@ -223,5 +223,5 @@ We realise **EcoSats is a baby step for a post-growth monetary protocol.**
 **More work**: [Bitcoin Degrowth Dashboard](https://pascalranaora.github.io/bitcoin-degrowth/)
 
 ---
-
+**It's time to move on from the GDP-Era. Let's prioritize the Wellbeing of our people over profit.**
 **Let’s build the first **thermodynamically honest money** — together.**
