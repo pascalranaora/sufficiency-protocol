@@ -134,7 +134,17 @@ It is a **one-time entropy pump**—converting dissipative energy into **permane
 - **Global layer**: Bitcoin (hard cap, entropy-honest)  
 - **Local layer**: EcoSats (sufficiency-backed, demurrage-driven)  
 
-Together, they form **the first monetary system compatible with a finite planet**.
+Instead of a single central bank digital currency (CBDC), we would have community-driven digital currencies to:
+- closely align with the planet's entropy
+- reduce the overall entropy of the system
+- limit the risks of dystopia and total digital surveillance
+- prioritize local production and the local economy (90%) while still having access to a global market (10%)
+- limit the risks of changes to the Bitcoin base layer. Forks and code are maintained on a local digital currency.
+- accelerate the definancialization of the central authority and our economies at scale
+
+Bitcoin is the glue that lets the local digital currency model stick and scale.
+
+Together LDC (Local digital Currency) + BTC could shape what would form **the first global monetary system compatible with a finite planet** solving for prioritising local resources allocations and energy spending, without sacrificing global scaling and having access to a global market. 
 
 ---
 
@@ -161,6 +171,8 @@ def issue_ecosat(recipient_pubkey, sufficiency_proof):
 **CC-BY-SA 4.0**  
 Attribute to: *The Sufficiency Protocol Collective*  
 Fork, remix, deploy.
+
+You can cite [www.sufficiencyprotocol.org](https://www.sufficiencyprotocol.org)
 
 ---
 

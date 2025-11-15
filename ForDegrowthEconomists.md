@@ -1,4 +1,4 @@
-# **Bitcoin Degrowth Manifesto — For Degrowth Economists**  
+# **Bitcoin Degrowth/PostGrowth Manifesto — For Degrowth/PostGrowth Economists**  
 **“A Post-Growth Monetary System That Respects the Entropy Law”**  
 *Finite Money for a Finite Planet — With Rigorous Equations*
 
@@ -154,7 +154,7 @@ T_t &\leq L_t \quad \text{(throughput cap)}
 
 ## 10. **Call to Economists**
 
-In this repository, we are attempting to extend Satoshi Nakamoto original ideas to make them Degrowth compatible. A global monetary system that could apply to local communities without the need on relying on trust of central authorities (a transparent and automated system) and without the need on inventing new local currencies but instead use global template that could be used Worldwide and adapted to the Digital Era.
+In this repository, we are attempting to extend Satoshi Nakamoto original ideas to make them Degrowth compatible. A global monetary system that could apply to local communities without the need on relying on trust of central authorities (a transparent and automated system). We will back any local currencies that will emit sufficiency/wellbeing money with Bitcoin: designing a global template that could be used Worldwide and adapted to the Digital Era.
 
 According to Economists, Money is a technology to move Value across Space, Time, and Scale.
 
@@ -177,15 +177,26 @@ This trade-off can be described as a Money Trilemma: you can optimize for 2, but
 Until the invention of Bitcoin.
 
 **Bitcoin is the first form of Money that excels simultaneously in all three functions.**
-With our research here we believe Bitcoin could be a pivotal technology that allows humanity to finally use/comply with thermodynamic laws (which are the same everywhere on Earth) locally, at scale and to peg it back to a global monetary system that would have other benefits for global coordination (common unit of measure of value everywhere on Earth) solving for the (Space,Time,Scale) Trilemma. 
+With our research here we believe Bitcoin could be a pivotal technology that allows humanity to finally use/comply with thermodynamic laws (which are the same everywhere on Earth) locally, at scale and to peg it back to a global monetary system that would have other benefits for global coordination (a common unit of account to measure value the same way everywhere on Earth) solving for the (Space,Time,Scale) Trilemma. 
 
 
-**We therefore invite Degrowth Economists and the Degrowth Journal to:**  
+John Nash, in his original article "Ideal Money" published in the [Southern Economic Journal (Vol. 69, No. 1, July 2002, pp. 4-11](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2325-8012.2002.tb00474.x), discusses monetary stability as an ideal comparable to physical units of measurement.
+
+Something he will also highlight in lectures such as the one given at Princeton University or at the European School of Economics in 1997, and extended versions in 2002-2008 (available online, for example [here](https://web.math.princeton.edu/jfnj/texts_and_graphics/Main.Content/IDEAL_MONEY.../Older/PENN_STATE/babu.money.b.pdf) )
+
+He discusses an "ideal" currency that would be stable and free from "inflationary decadence" (intrinsically free of "inflationary decadence"), and which would asymptotically (that is, gradually, approaching a limit) a constant value, comparable to a unit of measurement such as the watt or the degree of temperature. He emphasizes zero inflation as an ideal objective, measured by domestic or international price indices, to facilitate utility transfers in game theory and promote long-term economic well-being. 
+
+"The ideal concept would necessarily be that of a zero rate for what is called inflation."
+“Money should have the function of a standard of measurement and thus that it should become comparable to the watt or the hour or a degree of temperature.” 
+
+
+**This work is an invitation for Degrowth PostGrowth Economists and the Degrowth Journal to:**  
 1. **Peer-review** the thermodynamic model
 2. **Co-design** some pilot studies ?
-3. **Publish** or consider Bitcoin in some original new work in *Ecological Economics* or *Degrowth Journal*
+3. **Publish** or consider Bitcoin in some original new work in *Ecological Economics* or *Degrowth Journal* 
+4. **Complete** John Nash Vision with a neutral technology that we could make PostGrowth compatible
 
-(optionnal) Also **check** the [Bitcoin Degrowth Dashboard](https://pascalranaora.github.io/bitcoin-degrowth/)
+
 
 ---
 
@@ -194,22 +205,24 @@ With our research here we believe Bitcoin could be a pivotal technology that all
 - Georgescu-Roegen, N. (1971). *The Entropy Law and the Economic Process*.  
 - Parrique, T. (2019). *The Political Economy of Degrowth*.  
 - Daly, H. (1991). *Steady-State Economics*.  
-- Gesell, S. (1916). *The Natural Economic Order*.  
-- Nakamoto, S. (2008). *Bitcoin Whitepaper* (as entropy pump).
+- Gesell, S. (1916). *The Natural Economic Order*.
+- Nash, J. (2002). *Ideal Money*.
+- Nakamoto, S. (2008). *Bitcoin Whitepaper*.
 
 ---
 
-**EcoSats is not a cryptocurrency.**  
-**It is a post-growth monetary protocol.**
+We realise **EcoSats is a baby step for a post-growth monetary protocol.**
 
 > **“Bitcoin was the seed. EcoSats is the soil.”**
 
 ---
 
-**Contact**: `@sufficiencyprotocol.org`  
+**Contact**: `support@sufficiencyprotocol.org`  
 **Pilot**: Exploring options   
 **Code**: [sufficiency-protocol](https://github.com/pascalranaora/sufficiency-protocol)  
+**More work**: [Bitcoin Degrowth Dashboard](https://pascalranaora.github.io/bitcoin-degrowth/)
 
 ---
-
+**It's time to move on and opt-out from the GDP/profit-oriented extractive era.** 
+**Let's prioritize the wellbeing of our people and let's start over with collaboration and communities-centered economies everywhere over profit.**
 **Let’s build the first **thermodynamically honest money** — together.**
